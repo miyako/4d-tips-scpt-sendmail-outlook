@@ -1,0 +1,38 @@
+﻿{
+	"Trash/Methods/(LEP_Escape).4dm": {
+		"left": 351,
+		"top": 284,
+		"width": 778,
+		"height": 410
+	},
+	"Trash/Methods/(LEP_Escape_path).4dm": {
+		"left": 351,
+		"top": 258,
+		"width": 778,
+		"height": 436
+	},
+	"Trash/Methods/(AppleMail_Script).4dm": {
+		"left": 658,
+		"top": 399,
+		"width": 1086,
+		"height": 610
+	},
+	"Trash/Methods/(TEST).4dm": {
+		"left": 300,
+		"top": 147,
+		"width": 1086,
+		"height": 610
+	},
+	"Sources/Methods/TEST.4dm": {
+		"left": 376,
+		"top": 159,
+		"width": 921,
+		"height": 683
+	},
+	"Sources/Methods/scpt_sendmail_outlook.4dm": {
+		"left": 376,
+		"top": 159,
+		"width": 921,
+		"height": 683
+	}
+}
